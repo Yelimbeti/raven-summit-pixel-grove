@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Call It",
+      "hasCanvas": false,
+      "bodyTextLen": 209,
+      "bodyTextHash": "516037b0d9ae7ffb1e4cc6552249ef265e0e4888353ec84bf9847ef6a06c85e0",
+      "bodyTextPrefix": "CALL IT Stop arguing. Just pick. Open a room, drop in options, a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Call It",
+      "hasCanvas": false,
+      "bodyTextLen": 209,
+      "bodyTextHash": "516037b0d9ae7ffb1e4cc6552249ef265e0e4888353ec84bf9847ef6a06c85e0",
+      "bodyTextPrefix": "CALL IT Stop arguing. Just pick. Open a room, drop in options, a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prod-preview.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
